@@ -42,3 +42,4 @@ public class ReadPixels : MonoBehaviour
         //Renable loading screen, disabled from server once all players have loaded.
         loadingScreen.SetActive(true);
     }
+}
